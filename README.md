@@ -69,5 +69,8 @@ Predicted value:
 
 ![image](https://github.com/user-attachments/assets/782905b0-6429-4aee-9a4d-ad304ff20cf1)
 
+
+
+
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
