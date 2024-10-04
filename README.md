@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1.Data Collection and Preprocessing: Collect and preprocess data (handle missing values, encode categories, scale features).
+
 2.Data Splitting: Split data into training and testing sets.
+
 3.Model Building: Train a Decision Tree Classifier on the training data.
+
 4.Model Evaluation: Test the model on the testing set and evaluate its performance (accuracy, precision, recall).
 
 ## Program:
